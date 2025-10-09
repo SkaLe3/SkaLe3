@@ -5,11 +5,11 @@
 I'm a **C++ game developer** passionate about creating engaging gameplay and interactive software.  
 I work mainly with **C++**, **Unreal Engine**, and **Unity**, and I love **seeing my creations come alive**.
 
-🎓 **Bachelor of Computer Engineering**, NTUU "KPI"  
-🎮 Focused on game development and software creation  
-🎨 Interested in graphics, 3D modeling, and sound design  
-🎵 Love music, games, and rainy days
-💡 Curious, always learning, and experimenting with new tools and techniques
+- 🎓 **Bachelor of Computer Engineering**, NTUU "KPI"  
+- 🎮 Focused on game development and software creation  
+- 🎨 Interested in graphics, 3D modeling, and sound design  
+- 🎵 Love music, games, and rainy days
+- 💡 Curious, always learning, and experimenting with new tools and techniques
 
 ---
 
