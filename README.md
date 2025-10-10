@@ -5,7 +5,7 @@
 <div style="display: block; align-items: center; justify-content: space-between;">
   <div>
     I'm a <strong>C++ game developer</strong> passionate about creating engaging gameplay and interactive software.  
-    I work mainly with <strong>C++</strong>, <strong>Unreal Engine</strong>, and <strong>Unity</strong>, and I love <string>seeing my creations come alive</string>.
+    I work mainly with <strong>C++</strong>, <strong>Unreal Engine</strong>, and <strong>Unity</strong>, and I love <strong>seeing my creations come alive</strong>.
   </div>
   <br>
   <div>
@@ -36,15 +36,15 @@
 
 ## Programming Languages
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="cplusplus" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="cplusplus" title="C++" />
   <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" alt="csharp" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" alt="csharp" title="C#" />
   <img width="12"/>
-  <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" height="40" alt="python" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" height="40" alt="python" title="Python" />
   <img width="12"/>
-  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="40" alt="assembly" />
+  <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="40" alt="assembly" title="Assembly" />
   <img width="12"/>
-  <img src="https://pbs.twimg.com/media/FbbpVP-XgAAgfFs.jpg" height="40" alt="hlsl" />
+  <img src="https://pbs.twimg.com/media/FbbpVP-XgAAgfFs.jpg" height="40" alt="hlsl" title="HLSL"/>
   <img width="12"/>
 </div>
 
